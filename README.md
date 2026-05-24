@@ -5,7 +5,8 @@
 ## 📌 Problem Statement
 A retail business needed a centralized view of sales performance across multiple countries, customer types, and sales managers — with no existing reporting system in place.
 
-![Dashboard Preview]("C:\Users\divya\Downloads\PB11.png")
+[Dashboard Preview]<img width="1336" height="742" alt="PB11" src="https://github.com/user-attachments/assets/0260ca74-a13a-45f0-a481-87e3e4714619" />
+
 
 ## 🎯 Objectives
 - Track total sales, cost, and profit at a glance
